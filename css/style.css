@@ -108,7 +108,7 @@ ul.topnav li.right {
 
 #showcase .bg-image {
   position: absolute;
-  background: #333 url("/images/grad2.jpg");
+  background: #333 url("/img/grad2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
